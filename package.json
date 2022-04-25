@@ -1,0 +1,66 @@
+{
+  "name": "e-consultation-mobile-app",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "expo",
+    "template",
+    "nativebase"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "eject": "expo eject",
+    "devtools": "react-devtools"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.5",
+    "@react-native-async-storage/async-storage": "~1.15.0",
+    "@react-native-community/datetimepicker": "3.5.2",
+    "@react-navigation/drawer": "^6.4.1",
+    "@react-navigation/native": "^6.0.10",
+    "@react-navigation/native-stack": "^6.6.1",
+    "axios": "^0.26.1",
+    "expo": "~42.0.0",
+    "expo-image-manipulator": "~9.2.2",
+    "expo-image-picker": "~10.2.2",
+    "expo-images-picker": "^2.3.0",
+    "expo-media-library": "~12.1.2",
+    "expo-splash-screen": "~0.11.2",
+    "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.8.1",
+    "moment": "^2.29.2",
+    "native-base": "3.3.7",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.4",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-document-picker": "^8.1.0",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-image-crop-picker": "^0.37.3",
+    "react-native-pager-view": "5.0.12",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-svg": "12.1.1",
+    "react-native-swipe-list-view": "^3.2.9",
+    "react-native-tab-view": "^3.1.1",
+    "react-native-unimodules": "0.14.10",
+    "react-native-uuid": "^2.0.1",
+    "react-native-web": "~0.13.12",
+    "socket.io-client": "^4.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "react-devtools": "^4.24.3"
+  },
+  "bugs": {
+    "url": "https://github.com/GeekyAnts/nativebase-templates/issues"
+  },
+  "homepage": "https://github.com/GeekyAnts/nativebase-templates#readme",
+  "author": "Aditya Jamuar",
+  "private": true
+}
