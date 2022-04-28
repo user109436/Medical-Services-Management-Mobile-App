@@ -123,7 +123,7 @@ export const ChatMessages = () => {
       status: "",
       message: ""
     });
-    if (message.images.length > 10) {
+    if (message.images.length > 9) {
       setAlertMessage({
         status: "error",
         message: "Maximum of 10 image only"
