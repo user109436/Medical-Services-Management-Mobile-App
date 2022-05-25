@@ -169,8 +169,8 @@ export const Login = ({ navigation }) => {
           </View>
           <VStack space={1} alignItems="center">
           <Text fontSize="md">Welcome to</Text>
-            <Text fontSize="md"> MOBILE-BASED APPLICATION</Text>
-            <Text fontSize="md">MEDICAL SERVICES MANAGEMENT SYSTEM</Text>
+            <Text fontSize="md">MOBILE-BASED MEDICAL SERVICES</Text>
+            <Text fontSize="md">MANAGEMENT APPLICATION</Text>
             <Text fontSize="md">FOR UNIVERSITY OF RIZAL SYSTEM</Text>
           </VStack>
           <Heading
